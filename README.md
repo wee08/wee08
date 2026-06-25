@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nithya 👋</h1>
+<h1 align="center">Hi there, I'm Nithya </h1>
 
 <p align="center">
   <em>Computer Science Student · Aspiring Full-Stack Engineer · Based in Phnom Penh 🇰🇭</em>
@@ -11,17 +11,17 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-- 🎓 **2nd Year Computer Science** at the Institute of Technology of Cambodia (ITC) — Expected graduation: 2029
-- 🚀 Goal: Become a **Full-Stack Software Engineer**
-- 🌱 Currently learning: **React**, **Tailwind CSS**, **Data Structures & Algorithms in C++**
-- 💼 Actively building a **freelancing portfolio** with React projects
-- 🎨 Hobbies: Reading · Painting · Gaming
+-  **2nd Year Computer Science** at the Institute of Technology of Cambodia (ITC) — Expected graduation: 2029
+-  Goal: Become a **Full-Stack Software Engineer**
+-  Currently learning: **React**, **Tailwind CSS**, **Data Structures & Algorithms in C++**
+-  Actively building a **freelancing portfolio** with React projects
+-  Hobbies: Reading · Painting · Gaming
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -53,17 +53,17 @@
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [🤖 Agency AI](https://github.com/wee08/Agency-ai) | AI agency landing page with dark/light mode toggle | React · Vite · Tailwind CSS |
-| [📘 C++ Data Structures](https://github.com/wee08/C_plus_plus) | Lab exercises covering recursion, linked lists, stacks, queues & sorting | C++ |
-| [📋 Payroll System](https://github.com/wee08/payroll_system) | Employee payroll system with CSV file I/O and linked list data structures | C++ |
+| [ Agency AI](https://github.com/wee08/Agency-ai) | AI agency landing page with dark/light mode toggle | React · Vite · Tailwind CSS |
+| [ C++ Data Structures](https://github.com/wee08/C_plus_plus) | Lab exercises covering recursion, linked lists, stacks, queues & sorting | C++ |
+| [ Payroll System](https://github.com/wee08/payroll_system) | Employee payroll system with CSV file I/O and linked list data structures | C++ |
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wee08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
@@ -76,11 +76,11 @@
 
 ---
 
-## 🎯 Currently Working On
+##  Currently Working On
 
-- 🔨 Building a **C++ Payroll System** with linked lists, attendance tracking & CSV handling
-- 🌐 Developing **React landing page** projects for my freelancing portfolio
-- 📚 Deepening knowledge in **Data Structures & Algorithms**
+-  Building a **C++ Payroll System** with linked lists, attendance tracking & CSV handling
+-  Developing **React landing page** projects for my freelancing portfolio
+-  Deepening knowledge in **Data Structures & Algorithms**
 
 ---
 
@@ -89,5 +89,5 @@
 </p>
 
 <p align="center">
-  ⭐ <strong>If you find my work helpful, consider giving it a star!</strong>
+   <strong>If you find my work helpful, consider giving it a star!</strong>
 </p>
