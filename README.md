@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nithya </h1>
+<h1 align="center" color="#bde0fe">Hi, My name is Sean Manutnithya. </h1>
 
 <p align="center">
   <em>Computer Science Student · Aspiring Full-Stack Engineer · Based in Phnom Penh 🇰🇭</em>
