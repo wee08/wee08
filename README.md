@@ -1,11 +1,10 @@
-<h1 align="center" color="#bde0fe">Hi, My name is Sean Manutnithya. </h1>
+<h1 align="center" >Hi, My name is Sean Manutnithya. </h1>
 
 <p align="center">
   <em>Computer Science Student · Aspiring Full-Stack Engineer · Based in Phnom Penh 🇰🇭</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/wee08"><img src="https://komarev.com/ghpvc/?username=wee08&label=Profile%20views&color=6e40c9&style=flat" alt="profile views"/></a>
   <a href="mailto:manutnithyasean@gmail.com"><img src="https://img.shields.io/badge/Email-manutnithyasean%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
